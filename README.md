@@ -1,4 +1,5 @@
 Problem Description: 
+
 Develop a predictive maintenance application for Caterpillar machinery using simulated sensor data.
 OOP Concepts:
 o Abstraction: Create abstract sensor classes like TemperatureSensor, PressureSensor, and VibrationSensor.
